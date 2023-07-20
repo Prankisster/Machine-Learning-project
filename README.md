@@ -18,7 +18,6 @@ This is a solution to the price prediction project, wherein we were supposed to 
 - Matplotlib
 - Numpy
 - Pandas
-- 
 ### What I learned
 Learnt to implement various machine learning models from scratch, their mathematical working and the nitty-gritties behind them (LinearRegression, RandomForest, DecisionTrees, K-NearestNeighbours algorithm) & how these algorithms can be optimised to increase their performance various techniques such as pruning, filtering, hyperparameter tuning.
 
